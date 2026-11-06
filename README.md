@@ -48,3 +48,11 @@ This project focuses on dynamic memory management and pointer-based element trav
 ├── Makefile                # Build automation script
 ├── LICENSE                 # MIT License
 └── README.md               # Documentation
+
+
+
+
+Author & Academic Context
+Institution: University of West Attica (UNIWA)
+Department: Computer Engineering
+Course: Data Structures (Lab Assignment 2)
