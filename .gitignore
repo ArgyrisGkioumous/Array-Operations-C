@@ -1,0 +1,13 @@
+# Executables & Binaries
+*.out
+*.o
+*.exe
+bin/
+build/
+
+# macOS / OS specific
+.DS_Store
+
+# Saved array files
+*.dat
+*.txt
